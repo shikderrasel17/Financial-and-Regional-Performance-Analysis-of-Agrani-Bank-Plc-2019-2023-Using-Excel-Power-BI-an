@@ -1,0 +1,2 @@
+# financial-regional-performance-analysis-agrani-bank-2019-2023-excel-powerbi-geospatial
+This project analyzes the financial and regional performance of Agrani Bank Plc (2019-2023) using Excel and Power BI. It includes data aggregation, financial trend analysis, and geospatial mapping to assess branch performance across regions, leveraging advanced Excel functions and Power BI visualizations for decision-making.
